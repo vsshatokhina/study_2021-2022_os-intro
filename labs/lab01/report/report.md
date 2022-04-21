@@ -2,7 +2,7 @@
 ## Front matter
 title: "Шаблон отчёта по лабораторной работе"
 subtitle: "Простейший вариант"
-author: "Дмитрий Сергеевич Кулябов"
+author: "Шатохина Виктория Сергеевна"
 
 ## Generic otions
 lang: ru-RU
