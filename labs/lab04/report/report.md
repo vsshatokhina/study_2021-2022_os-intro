@@ -102,57 +102,57 @@ rmdir, rm. Поясните основные опции этих команд.
 
 
 # Выполнение лабораторной работы
-Определяем полное имя нашего домашнего каталога (рис. [-@fig:001])
+Определяем полное имя нашего домашнего каталога (рис. [-@fig:001]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab04/report/image/1.png
 
 ![Полное имя домашнего каталога](image/1.png){ #fig:001 width=70% }
 
 Переходим в каталог /tmp. А также используем команду ls
 с различными опциями.
  
-Команда ls -просмотр содержимого каталога (рис. [-@fig:002]) 
+Команда ls -просмотр содержимого каталога (рис. [-@fig:002]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab04/report/image/2.png
 
 ![Команда ls](image/2.png){ #fig:002 width=70% }
 
-Команда ls -l -расширенный просмотр каталога (рис. [-@fig:003]) 
+Команда ls -l -расширенный просмотр каталога (рис. [-@fig:003]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab04/report/image/3.png
 
 ![Команда ls -l](image/3.png){ #fig:003 width=70% }
 
-Команда ls -a -просмотр содержимого каталога вместе со скрытыми файлами (рис. [-@fig:004]) 
+Команда ls -a -просмотр содержимого каталога вместе со скрытыми файлами (рис. [-@fig:004]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab04/report/image/4.png
 
 ![Команда ls -a](image/4.png){ #fig:004 width=70% }
 
-Переходим в каталог /var/spool и проверяем наличие подкаталога cron . Затем переходим в свой домашний каталог и просматриваем его содержимое с помощью команды ls -l (рис. [-@fig:005])
+Переходим в каталог /var/spool и проверяем наличие подкаталога cron . Затем переходим в свой домашний каталог и просматриваем его содержимое с помощью команды ls -l (рис. [-@fig:005]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab04/report/image/5.png
 
 ![Каталог cron](image/5.png){ #fig:005 width=70% }
 
-Далее создаём каталог newdir. Создаём каталог newdir/morefun. (рис. [-@fig:006]) 
+Далее создаём каталог newdir. Создаём каталог newdir/morefun. (рис. [-@fig:006]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab04/report/image/6.png
 
 ![Создание каталогов](image/6.png){ #fig:006 width=70% }
 
 Создание одной командой трёх новых каталогов с именами
-letters, memos, misk и их удаление одной командой.(рис. [-@fig:006])
+letters, memos, misk и их удаление одной командой.(рис. [-@fig:007]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab04/report/image/7.png
 
 ![Создание и удаление каталогов](image/7.png){ #fig:007 width=70% }
 
 С помощью команды man опредяем, какую опцию команды ls нужно использовать для просмотра содержимое не только указанного каталога, но и подкаталогов,входящих в него.
 
-Далее с помощью команды man определяем набор опций команды ls, позволяющий отсортировать по времени последнего изменения выводимый список содержимого каталога с развёрнутым описанием файлов. (рис. [-@fig:008]) (рис. [-@fig:009]) 
+Далее с помощью команды man определяем набор опций команды ls, позволяющий отсортировать по времени последнего изменения выводимый список содержимого каталога с развёрнутым описанием файлов. (рис. [-@fig:008]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab04/report/image/8.png (рис. [-@fig:009])  https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab04/report/image/9.png
 
 ![Просмотр содержимого](image/8.png){ #fig:008 width=70% }
 
 
 ![Просмотр содержимого](image/9.png){ #fig:009 width=70% }
 
-Используем команду man для просмотра описания следующих команд: cd, pwd, mkdir,rmdir, rm. (рис. [-@fig:010])
+Используем команду man для просмотра описания следующих команд: cd, pwd, mkdir,rmdir, rm. (рис. [-@fig:010]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab04/report/image/10.png
 
 ![Использоание команды man](image/10.png){ #fig:010 width=70% }
 
-Используя информацию, полученную при помощи команды history, выполняем модификацию и исполнение нескольких команд из буфера команд. (рис. [-@fig:011])
+Используя информацию, полученную при помощи команды history, выполняем модификацию и исполнение нескольких команд из буфера команд. (рис. [-@fig:011]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab04/report/image/11.png
 
 ![Выполнение модификации и команд](image/11.png){ #fig:011 width=70% }
 
 Вызываем команду 400 и модифицируем команду 409: заменяем -l на -a
-(рис. [-@fig:012]) (рис. [-@fig:013])
+(рис. [-@fig:012]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab04/report/image/12.png (рис. [-@fig:013]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab04/report/image/13.png
 
 ![Вызов команды](image/12.png){ #fig:012 width=70% }
 
