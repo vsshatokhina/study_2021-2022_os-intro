@@ -77,29 +77,29 @@ header-includes:
 Markdown — облегчённый язык разметки, созданный с целью обозначения форматирования в простом тексте, с максимальным сохранением его читаемости человеком, и пригодный для машинного преобразования в языки для продвинутых публикаций (HTML, Rich Text и других). 
 
 # Выполнение лабораторной работы
-Открыли соответствующую папку lab3/report и в терминале выполнили команду make(рис.[-@fig:001])
+Открыли соответствующую папку lab3/report и в терминале выполнили команду make(рис.[-@fig:001]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab03/report/image/1.jpg
 
 !["Выполнение команды make"](image/1.jpg){ #fig:001 width=70% }
 
-Открылся файл report.md (рис.[-@fig:002])
+Открылся файл report.md (рис.[-@fig:002]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab03/report/image/2.jpg
 
 !["Открытие нужного нам файла"](image/2.jpg){ #fig:002 width=70% }
 
-Перенесли скриншоты выполнения лабораторной работы №2 в папку image (рис.[-@fig:003])
+Перенесли скриншоты выполнения лабораторной работы №2 в папку image (рис.[-@fig:003]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab03/report/image/3.jpg
 
 !["Сохранение скриншотов в нужную папку"](image/3.jpg){ #fig:003 width=70% }
 
-В открывшемся шаблоне дублируем отчёт лабораторной работы №2 (рис.[-@fig:004])
+В открывшемся шаблоне дублируем отчёт лабораторной работы №2 (рис.[-@fig:004]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab03/report/image/4.jpg
 
 !["Перенос отчёта по лаб.№2 в формат md"](image/4.jpg){ #fig:004 width=70% }
 
-Загрузка на githab файла report.md и скриншотов.(рис.[-@fig:005]) (рис.[-@fig:006])
+Загрузка на githab файла report.md и скриншотов.(рис.[-@fig:005]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab03/report/image/5.jpg  (рис.[-@fig:006])  https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab03/report/image/6.jpg
 
 !["Загрузка файла на git"](image/5.jpg){ #fig:005 width=70% }
 
 !["Загрузка скриншотов на git"](image/6.jpg){ #fig:006 width=70% }
 
-Мы получили переделанный отчёт Лабораорной работы №2 в формате Markdown (рис.[-@fig:007])
+Мы получили переделанный отчёт Лабораорной работы №2 в формате Markdown (рис.[-@fig:007])  https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab03/report/image/7.jpg
 
 !["Выполненный отчёт"](image/7.jpg){ #fig:007 width=70% }
 
