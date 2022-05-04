@@ -52,7 +52,7 @@ header-includes:
 
 # Выполнение лабораторной работы
 
-1. Выполнили все примеры, приведённые в первой части описания лабораторной работы. (рис. [-@fig:001])
+1. Выполнили все примеры, приведённые в первой части описания лабораторной работы. (рис. [-@fig:001]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab05/report/image/1.png
 
 ![Выполнение примеров](image/1.png){ #fig:001 width=90% }
 
@@ -67,7 +67,7 @@ header-includes:
 - Переместили файлы ~/ski.plases/equiplist и equiplist2 в каталог ~/ski.plases/equipment.
 - Создали и переместили каталог ~/newdir в каталог ~/ski.plases и назвали его plans
 
-(рис. [-@fig:002])
+(рис. [-@fig:002]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab05/report/image/2.png
 
 ![Выполнение пункта 2](image/2.png){ #fig:002 width=90% } 
 
@@ -78,11 +78,11 @@ header-includes:
 - -r-xr--r-- ... my_os
 - -rw-rw-r-- ... feathers <br>
 
-(рис. [-@fig:003])
+(рис. [-@fig:003]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab05/report/image/3.png
 
 ![Выполнение пункта 3](image/3.png){ #fig:003 width=90% }
 
-4. Просмотрели содержимое файла /etc/password (рис. [-@fig:004]) (рис. [-@fig:005]) 
+4. Просмотрели содержимое файла /etc/password (рис. [-@fig:004]) (рис. [-@fig:005]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab05/report/image/4.png https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab05/report/image/5.png
 
 ![cat /etc/passwd](image/4.png){ #fig:004 width=90% }
 
@@ -103,13 +103,13 @@ cat? (Нам было отказано в доступе)
 - Перешли в каталог ~/play. Что произошло? (Отказано в доступе)
 - Дали владельцу каталога ~/play право на выполнение.
 
-(рис. [-@fig:006 ]) (рис. [-@fig:007])
+(рис. [-@fig:006 ]) (рис. [-@fig:007]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab05/report/image/5.png https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab05/report/image/7.png
 
 ![Выполнение пункта 4](image/6.png){ #fig:006 width=90% }
 
 ![Выполнение пункта 4](image/7.png){ #fig:007 width=90% }
 
-6. Прочитайте man по командам mount, fsck, mkfs, kill (рис. [-@fig:008])
+6. Прочитайте man по командам mount, fsck, mkfs, kill (рис. [-@fig:008]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab05/report/image/8.png
 
 ![man по командам](image/8.png){ #fig:008 width=70% } 
 
