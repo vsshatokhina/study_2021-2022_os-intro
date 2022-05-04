@@ -108,14 +108,14 @@ header-includes:
 
 Я осуществила вход в систему, используя соответствующее имя пользователя.
 
-Записала в файл file.txt названия файлов, содержащихся в каталоге /etc. Дописала в этот же файл названия файлов, содержащихся в моем домашнем каталоге.(рис. [-@fig:001]) (рис. [-@fig:002])
+Записала в файл file.txt названия файлов, содержащихся в каталоге /etc. Дописала в этот же файл названия файлов, содержащихся в моем домашнем каталоге.(рис. [-@fig:001]) (рис. [-@fig:002]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab06/report/image/1.png https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab06/report/image/2.png
 
 ![Запись в файл названия файлов, содержащихся в каталоге /etc](image/1.png){ #fig:001 width=70% }
 
 ![Запись в файл названия файлов из домашнего каталога](image/2.png){ #fig:002 width=70% }
 
 Далее я вывела имена всех файлов из file.txt, имеющих расширение .conf, после чего
-записала их в новый текстовой файл conf.txt. (рис. [-@fig:003])
+записала их в новый текстовой файл conf.txt. (рис. [-@fig:003]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab06/report/image/3.png 
 
 ![Файлы .conf](image/3.png){ #fig:003 width=70% }
 
@@ -123,34 +123,34 @@ header-includes:
 с символа c. 
 
 Вывела на экран (по странично) имена файлов из каталога /etc, начинающиеся
-с символа h.(рис. [-@fig:004])
+с символа h.(рис. [-@fig:004]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab06/report/image/4.png
 
 ![Определение файлов](image/4.png){ #fig:004 width=70% }
 
 Запустила в фоновом режиме процесс, который будет записывать в файл ~/logfile
-файлы, имена которых начинаются с log. (рис. [-@fig:005])
+файлы, имена которых начинаются с log. (рис. [-@fig:005]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab06/report/image/5.png
 
 ![Запись файлов,имена которых начинаются с log. ](image/5.png){ #fig:005 width=70% }
 
-Удалила файл ~/logfile.(рис. [-@fig:006]) 
+Удалила файл ~/logfile.(рис. [-@fig:006]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab06/report/image/6.png
 
 ![Запись в файл файлов. Удаление](image/6.png){ #fig:006 width=70% }
 
 Запустила из консоли в фоновом режиме редактор gedit.
 
 Определила идентификатор процесса gedit, используя команду ps, конвейер и фильтр
-grep.(рис. [-@fig:007]) 
+grep.(рис. [-@fig:007]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab06/report/image/7.png
 
 ![gedit](image/7.png){ #fig:007 width=70% }
 
 Прочтала справку (man) команды kill, после чего использовала её для завершения
-процесса gedit.(рис. [-@fig:008]) 
+процесса gedit.(рис. [-@fig:008])  https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab06/report/image/8.png
 
 ![kill](image/8.png){ #fig:008 width=70% }
 
 Выполнила команды df и du, предварительно получив более подробную информацию об этих командах, с помощью команды man. 
 
-Воспользовавшись справкой команды find, вывела имена всех директорий, имеющихся в вашем домашнем каталоге.  (рис. [-@fig:009]) (рис. [-@fig:010])
+Воспользовавшись справкой команды find, вывела имена всех директорий, имеющихся в вашем домашнем каталоге.  (рис. [-@fig:009]) (рис. [-@fig:010]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab06/report/image/9.png  https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab06/report/image/10.png
 
 ![Команда df и du ](image/9.png){ #fig:009 width=70% }
 
