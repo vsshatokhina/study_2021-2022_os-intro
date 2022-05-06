@@ -64,18 +64,18 @@ header-includes:
 
 # Выполнение лабораторной работы
 
-Для начала заходим в файл `content/authors/admin/_index.md` и пишем свои данные (рис. [-@fig:001]). 
+Для начала заходим в файл `content/authors/admin/_index.md` и пишем свои данные (рис. [-@fig:001]). https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/project-personal/stage2/report/image/1.png
 
 ![Изменение данных о себе](image/1.png){ #fig:001 width=90% }
 
-Далее в папку `content/authors/admin/` кладём свою фотографию и даём ей имя `avatar.jpg` (рис. [-@fig:002])
+Далее в папку `content/authors/admin/` кладём свою фотографию и даём ей имя `avatar.jpg` (рис. [-@fig:002]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/project-personal/stage2/report/image/2.png
 
 ![Фотография](image/2.png){ #fig:002 width=90% }
 
 2. Добавить пост. 
 
 Я выбрала тему Git.
-Для создания поста я зашла в файл `content/post/getting-started/index.md` и изменила в нем контент для нашего поста.(рис. [-@fig:003])
+Для создания поста я зашла в файл `content/post/getting-started/index.md` и изменила в нем контент для нашего поста.(рис. [-@fig:003]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/project-personal/stage2/report/image/3.png
 
 ![Пост](image/3.png){ #fig:003 width=90% }
 
@@ -85,7 +85,7 @@ header-includes:
 
 Для этого воспользуемся командой `hugo` для сборки сайта, в папке `./public` появятся новые static файлы. Их необходимо будет отправить на гитхаб в репозиторий `<username>.github.io` командой `git push origin main`, предварительно добавив новые файлы (`git add .`) и создав новый коммит (`git commit -am "stage02"`).
 
-В результате получим обновленную страничку (рис. [-@fig:004])
+В результате получим обновленную страничку (рис. [-@fig:004]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/project-personal/stage2/report/image/4.png
 
 ![Обновленная страница](image/4.png){ #fig:004 width=90% }
 
