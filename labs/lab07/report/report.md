@@ -72,63 +72,63 @@ header-includes:
 
 # Выполнение лабораторной работы
 
-1. Изучили информацию о mc,вызвав в командной строке man mc(рис. [-@fig:001]) h
+1. Изучили информацию о mc,вызвав в командной строке man mc(рис. [-@fig:001]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab07/report/image/1.png
 
 ![man mc](image/1.png){ #fig:001 width=90% }
 
-2. Запустили из командной строки mc,изучили его структуру и меню. (рис. [-@fig:002]) 
+2. Запустили из командной строки mc,изучили его структуру и меню. (рис. [-@fig:002]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab07/report/image/2.png
 
 ![Запуск mc](image/2.png){ #fig:002 width=90% } 
 
 
-3. Выполнение нескольких операций в mc. (копирование/перемещение файлов) (рис. [-@fig:003]) 
+3. Выполнение нескольких операций в mc. (копирование/перемещение файлов) (рис. [-@fig:003]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab07/report/image/3.png
 
 ![Копирование файла](image/3.png){ #fig:003 width=90% }
 
-4. Выполнили основные команды меню левой (или правой) панели. (рис. [-@fig:004]) 
+4. Выполнили основные команды меню левой (или правой) панели. (рис. [-@fig:004]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab07/report/image/4.png
 
 ![Выполнение команд панели](image/4.png){ #fig:004 width=90% }
 
 
-5. Просмотр и редактирование содержимого текстового файла (рис. [-@fig:005]) 
+5. Просмотр и редактирование содержимого текстового файла (рис. [-@fig:005]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab07/report/image/5.png
 
 ![Просмотр и редактирование содержимого](image/5.png){ #fig:005 width=90% }
 
-6. Создали каталог. (рис. [-@fig:006 ]) 
+6. Создали каталог. (рис. [-@fig:006 ]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab07/report/image/6.png
 
 ![Создание каталога](image/6.png){ #fig:006 width=90% }
 
-7. Копировали файлы в созданный каталог. (рис. [-@fig:007])
+7. Копировали файлы в созданный каталог. (рис. [-@fig:007]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab07/report/image/7.png
  
 ![Копирование файла](image/7.png){ #fig:007 width=90% }
 
-8. С помощью соответствующих средств подменю осуществили поиск в файловой системе файла с заданными условиями (рис. [-@fig:008]) 
+8. С помощью соответствующих средств подменю осуществили поиск в файловой системе файла с заданными условиями (рис. [-@fig:008]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab07/report/image/8.png
 
 ![Поиск](image/8.png){ #fig:008 width=90% } 
 
-9. Произвели анализ файла меню и файла расширений. (рис. [-@fig:009]) (рис. [-@fig:0010])
+9. Произвели анализ файла меню и файла расширений. (рис. [-@fig:009]) (рис. [-@fig:0010]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab07/report/image/9.png  https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab07/report/image/10.png
 
 ![Файл меню](image/9.png){ #fig:009 width=90% }
 
 ![Файл расширений](image/10.png){ #fig:0010 width=90% }
 
-10. Создали текстовой файл text.txt. (рис. [-@fig:011]) 
+10. Создали текстовой файл text.txt. (рис. [-@fig:011])  https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab07/report/image/11.png
 
 ![Текстовый файл](image/11.png){ #fig:011 width=90% } 
 
-11. Вставили в открытый файл небольшой фрагмент текста. (рис. [-@fig:012]) 
+11. Вставили в открытый файл небольшой фрагмент текста. (рис. [-@fig:012]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab07/report/image/12.png
 
 ![Вставили текст](image/12.png){ #fig:012 width=90% } 
 
-12. Проделали с текстом следующие манипуляции,используя горячие клавиши: Удалили строку текста (рис. [-@fig:013]) 
+12. Проделали с текстом следующие манипуляции,используя горячие клавиши: Удалили строку текста (рис. [-@fig:013]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab07/report/image/13.png
 
 ![Удалили строку](image/13.png){ #fig:013 width=90% }
 
-13. Выделили фрагмент текста и скопировали его на новую строку. (рис. [-@fig:014]) 
+13. Выделили фрагмент текста и скопировали его на новую строку. (рис. [-@fig:014]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab07/report/image/14.png
 
 ![Скопировали](image/14.png){ #fig:014 width=90% }
 
-14. Сохранили файл.(рис. [-@fig:015]) 
+14. Сохранили файл.(рис. [-@fig:015]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab07/report/image/15.png
 
 ![Скопировали](image/15.png){ #fig:015 width=90% }
 
