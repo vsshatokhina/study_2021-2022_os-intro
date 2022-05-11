@@ -72,35 +72,35 @@ header-includes:
 
 # Выполнение лабораторной работы
 
-1. Создали каталог с именем ~/work/os/lab06. (рис. [-@fig:001]) 
+1. Создали каталог с именем ~/work/os/lab06. (рис. [-@fig:001]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab08/report/image/1.png
 
 ![Создали каталог](image/1.png){ #fig:001 width=90% }
 
-2. Перешли во вновь созданный каталог, вызвали vi и создайли файл hello.sh (рис. [-@fig:002]) 
+2. Перешли во вновь созданный каталог, вызвали vi и создайли файл hello.sh (рис. [-@fig:002]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab08/report/image/2.png
 
 ![Создание файла](image/2.png){ #fig:002 width=90% } 
 
-3. Нажали клавишу "i" и ввели текст (рис. [-@fig:003]) 
+3. Нажали клавишу "i" и ввели текст (рис. [-@fig:003]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab08/report/image/3.png
 
 ![Ввод текста](image/3.png){ #fig:003 width=90% }
 
-4. Делаем файл испольняемым (рис. [-@fig:004])
+4. Делаем файл испольняемым (рис. [-@fig:004]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab08/report/image/4.png
 
 ![Делаем файл исполняемым](image/4.png){ #fig:004 width=90% }
 
-5. Вызвали vi на редактирование файла (рис. [-@fig:005]) 
+5. Вызвали vi на редактирование файла (рис. [-@fig:005]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab08/report/image/5.png
 
 ![Просмотр и редактирование содержимого](image/5.png){ #fig:005 width=90% }
 
-6. Установили курсор в конец слова HELL второй строки. Перешли в режим вставки и заменили на HELLO (рис. [-@fig:006]) 
+6. Установили курсор в конец слова HELL второй строки. Перешли в режим вставки и заменили на HELLO (рис. [-@fig:006]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab08/report/image/6.png
 
 ![Редактируем](image/6.png){ #fig:006 width=90% }
 
-7. Установили курсор на четвертую строку и стёрли слово LOCAL. Перешли в режим вставки и набрали следующий текст:local (рис. [-@fig:007]) 
+7. Установили курсор на четвертую строку и стёрли слово LOCAL. Перешли в режим вставки и набрали следующий текст:local (рис. [-@fig:007]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab08/report/image/7.png
 
 ![Стерли и написали слово local](image/7.png){ #fig:007 width=90% }
 
-8. Установили курсор на последней строке файла. Вставили после неё строку "echo $HELLO" (рис. [-@fig:008]) 
+8. Установили курсор на последней строке файла. Вставили после неё строку "echo $HELLO" (рис. [-@fig:008]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab08/report/image/8.png
 
 ![Вставили строку](image/8.png){ #fig:008 width=90% }
 
