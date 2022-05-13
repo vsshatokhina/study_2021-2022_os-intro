@@ -72,23 +72,23 @@ header-includes:
 
 # Выполнение лабораторной работы
 
-1. Добавили информацию о навыках (Skills). (рис. [-@fig:001])
+1. Добавили информацию о навыках (Skills). (рис. [-@fig:001]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/project-personal/stage3/report/image/1.png
 
 ![Skills](image/1.png){ #fig:001 width=70% }
 
-2. Добавили информацию об опыте (Experience).(рис. [-@fig:002])
+2. Добавили информацию об опыте (Experience).(рис. [-@fig:002]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/project-personal/stage3/report/image/2.png
 
 ![Experience](image/2.png){ #fig:002 width=70% }
 
-3. Добавили информацию о достижениях (Accomplishments). (рис. [-@fig:003])
+3. Добавили информацию о достижениях (Accomplishments). (рис. [-@fig:003]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/project-personal/stage3/report/image/3.png
 
 ![Accomplishments](image/3.png){ #fig:003 width=70% }
 
-4. Сделали пост по прошедшей неделе. (рис. [-@fig:004])
+4. Сделали пост по прошедшей неделе. (рис. [-@fig:004]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/project-personal/stage3/report/image/4.png
 
 ![Пост](image/4.png){ #fig:004 width=70% }
 
-5. Добавили пост на тему (рис. [-@fig:005])
+5. Добавили пост на тему (рис. [-@fig:005]) (рис. [-@fig:006]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/project-personal/stage3/report/image/5.png https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/project-personal/stage3/report/image/6.png
 
 ![Сайт](image/5.png){ #fig:005 width=70% }
 
