@@ -90,19 +90,19 @@ POSIX (Portable Operating System Interface for Computer Environments) — наб
 
 # Выполнение лабораторной работы
 
-Написали скрипт №1. (рис. [-@fig:001])
+Написали скрипт №1. (рис. [-@fig:001]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab10/report/image/1.png
 
 ![Скрипт №1](image/1.png){ #fig:001 width=70% }
 
-Выполнили задание №2, написали второй скрипт. (рис. [-@fig:002])
+Выполнили задание №2, написали второй скрипт. (рис. [-@fig:002]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab10/report/image/2.png
 
 ![Скрипт №2](image/2.png){ #fig:002 width=70% }
 
-Написали скрипт №3. (рис. [-@fig:003])
+Написали скрипт №3. (рис. [-@fig:003]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab10/report/image/3.png
 
 ![Скрипт №3](image/3.png){ #fig:003 width=70% }
 
-Написали скрипт №4. (рис. [-@fig:004])
+Написали скрипт №4. (рис. [-@fig:004]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab10/report/image/4.png
 
 ![Скрипт №4](image/4.png){ #fig:004 width=70% }
 
