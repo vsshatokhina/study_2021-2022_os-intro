@@ -80,15 +80,15 @@ header-includes:
         
 # Выполнение
 
-Демидова Анастасия Вячеславовна разрешила не регистрироваться на сайтах. Поэтому я разместила ссылки на свои социальные сети. (рис. [-@fig:001])
+Демидова Анастасия Вячеславовна разрешила не регистрироваться на сайтах. Поэтому я разместила ссылки на свои социальные сети. (рис. [-@fig:001]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/project-personal/stage4/report/image/1.png
 
 ![Размещение ссылок](image/1.png){ #fig:001 width=70% }
 
-Далее я сделала пост по прошлой неделе.  (рис. [-@fig:002])
+Далее я сделала пост по прошлой неделе.  (рис. [-@fig:002]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/project-personal/stage4/report/image/2.png
 
 ![Пост по неделе](image/2.png){ #fig:002 width=70% }
 
-Также написала и опубликовала пост на тему "Оформление отчёта" (рис. [-@fig:003])
+Также написала и опубликовала пост на тему "Оформление отчёта" (рис. [-@fig:003]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/project-personal/stage4/report/image/3.png
 
 ![Пост на тему](image/3.png){ #fig:003 width=70% }
 
