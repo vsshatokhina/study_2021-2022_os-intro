@@ -51,15 +51,15 @@ header-includes:
 
 # Выполнение лабораторной работы
 
-1. Скрипт 1 (рис. [-@fig:001])
+1. Скрипт 1 (рис. [-@fig:001]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab12/report/image/1.png
 
 ![Скрипт 1](image/1.png){ #fig:001 width=90% }
 
-2. Скрипт 2 (рис. [-@fig:002])
+2. Скрипт 2 (рис. [-@fig:002]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab12/report/image/2.png
 
 ![Скрипт 2](image/2.png){ #fig:002 width=90% }
 
-3. Скрипт 3 (рис. [-@fig:003])
+3. Скрипт 3 (рис. [-@fig:003]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab12/report/image/3.png
 
 ![Скрипт 3](image/3.png){ #fig:003 width=90% }
 
