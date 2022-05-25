@@ -74,23 +74,23 @@ header-includes:
 
 # Выполнение лабораторной работы
 
-1. Скрипт 1 (рис. [-@fig:001]) 
+1. Скрипт 1 (рис. [-@fig:001])  https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab11/report/image/1.png
 
 ![Скрипт 1](image/1.png){ #fig:001 width=90% }
 
-2. Скрипт 2 (рис. [-@fig:002]) 
+2. Скрипт 2 (рис. [-@fig:002])  https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab11/report/image/2.png
 
 ![Скрипт 2](image/2.png){ #fig:002 width=90% }
 
-Запуск (рис. [-@fig:003]) 
+Запуск (рис. [-@fig:003])  https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab11/report/image/3.png
 
 ![Запуск Скрипта 2](image/3.png){ #fig:003 width=90% }
 
-3. Скрипт 3 
+3. Скрипт 3  (рис. [-@fig:004]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab11/report/image/4.png
 
 ![Скрипт 3](image/4.png){ #fig:004 width=90% }
 
-4. Скрипт 4 
+4. Скрипт 4 (рис. [-@fig:005]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab11/report/image/5.png
 
 ![Скрипт 4](image/5.png){ #fig:005 width=90% }
 
