@@ -78,17 +78,17 @@ header-includes:
    
 # Выполнение
 
-Сделали записи для персональных проектов. (рис. [-@fig:001]) (рис. [-@fig:002])
+Сделали записи для персональных проектов. (рис. [-@fig:001]) (рис. [-@fig:002]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/project-personal/stage5/report/image/1.png  https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/project-personal/stage5/report/image/2.jpg
 
 ![Записи для персональных проектов](image/1.png){ #fig:001 width=70% }
 
 ![Проект](image/2.jpg){ #fig:002 width=70% }
 
-Сделала пост по прошлой неделе. (рис. [-@fig:003]) 
+Сделала пост по прошлой неделе. (рис. [-@fig:003])  https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/project-personal/stage5/report/image/3.png
 
 ![Пост по прошлой неделе](image/3.png){ #fig:003 width=70% }
 
-Добавила пост на тему по выбору. (рис. [-@fig:004]) 
+Добавила пост на тему по выбору. (рис. [-@fig:004]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/project-personal/stage5/report/image/4.png
 
 ![Пост по прошлой неделе](image/4.png){ #fig:004 width=70% }
 
