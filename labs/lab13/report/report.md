@@ -52,36 +52,36 @@ header-includes:
 
 # Выполнение лабораторной работы
 
-1. В домашнем каталоге создали подкаталог и создали в нём файлы: calculate.h, calculate.c, main.c. (рис. [-@fig:001])
+1. В домашнем каталоге создали подкаталог и создали в нём файлы: calculate.h, calculate.c, main.c. (рис. [-@fig:001]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab13/report/image/1.png
 
 ![Создание каталогов и файлов](image/1.png){ #fig:001 width=90% }
 
-2. Файл calculate.h: (рис. [-@fig:002])
+2. Файл calculate.h: (рис. [-@fig:002]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab13/report/image/2.png
 
 ![calculate.h:](image/2.png){ #fig:002 width=90% }
 
-3. Файл calculate.c (рис. [-@fig:003])
+3. Файл calculate.c (рис. [-@fig:003]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab13/report/image/3.png
 
 ![calculate.c](image/3.png){ #fig:003 width=90% }
 
-4. Файл main.c (рис. [-@fig:004])
+4. Файл main.c (рис. [-@fig:004]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab13/report/image/4.png
 
 ![main.c](image/4.png){ #fig:004 width=90% }
 
-5. Выполнили компиляцию программы посредством gcc: (рис. [-@fig:005])
+5. Выполнили компиляцию программы посредством gcc: (рис. [-@fig:005]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab13/report/image/5.png
 
 ![Компиляция](image/5.png){ #fig:005 width=90% }
 
-6. Создали Makefile (рис. [-@fig:006])
+6. Создали Makefile (рис. [-@fig:006]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab13/report/image/6.png
 
 ![Makefile](image/6.png){ #fig:006 width=90% }
 
-7. С помощью gdb выполнили отладку программы calcul (рис. [-@fig:007])
+7. С помощью gdb выполнили отладку программы calcul (рис. [-@fig:007]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab13/report/image/7.png
 
 ![Отладка программы calcul](image/7.png){ #fig:007 width=90% }
 
 8. С помощью утилиты splint попробуйте проанализировать коды файлов calculate.c
-и main.c.  (рис. [-@fig:008]) (рис. [-@fig:009])
+и main.c.  (рис. [-@fig:008]) (рис. [-@fig:009]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab13/report/image/8.png  https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab13/report/image/9.png
 
 ![calculate.c](image/8.png){ #fig:008 width=90% }
 
