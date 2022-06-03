@@ -54,19 +54,19 @@ header-includes:
 1. Изучили приведённые в тексте программы server.c и client.c. Взяв данные примеры
 за образец, написали аналогичные программы, внеся изменения. 
 
-Файл common.h (рис. [-@fig:001]) 
+Файл common.h (рис. [-@fig:001]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab14/report/image/1.png
 
 ![Файл common.h](image/1.png){ #fig:001 width=90% }
 
-2. Файл server.c: (рис. [-@fig:002]) 
+2. Файл server.c: (рис. [-@fig:002]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab14/report/image/2.png
 
 ![server.c](image/2.png){ #fig:002 width=90% }
 
-3. Файл client2.c (рис. [-@fig:003]) 
+3. Файл client2.c (рис. [-@fig:003]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab14/report/image/3.png
 
 ![client2.c](image/3.png){ #fig:003 width=90% }
 
-4. Файл Makefile (рис. [-@fig:004]) 
+4. Файл Makefile (рис. [-@fig:004]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/labs/lab14/report/image/4.png
 
 ![Файл Makefile](image/4.png){ #fig:004 width=90% }
 
