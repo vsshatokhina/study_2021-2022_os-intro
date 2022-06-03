@@ -81,19 +81,19 @@ header-includes:
    
 # Выполнение
 
-Сделали поддержку английского и русского языков. (рис. [-@fig:001]) 
+Сделали поддержку английского и русского языков. (рис. [-@fig:001]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/project-personal/stage6/report/image/1.png
 
 ![Поддержка английского и русского языков](image/1.png){ #fig:001 width=70% }
 
-Разместить элементы сайта на обоих языках. (рис. [-@fig:002]) 
+Разместить элементы сайта на обоих языках. (рис. [-@fig:002]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/project-personal/stage6/report/image/2.png
 
-![Элементы сайта](image/2.jpg){ #fig:002 width=70% }
+![Элементы сайта](image/2.png){ #fig:002 width=70% }
 
-Сделала пост по прошлой неделе. (рис. [-@fig:003]) 
+Сделала пост по прошлой неделе. (рис. [-@fig:003]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/project-personal/stage6/report/image/3.png
 
 ![Пост по прошлой неделе](image/3.png){ #fig:003 width=70% }
 
-Добавила пост на тему по выбору. (рис. [-@fig:004]) 
+Добавила пост на тему по выбору. (рис. [-@fig:004]) https://github.com/vsshatokhina/study_2021-2022_os-intro/blob/master/project-personal/stage6/report/image/4.png
 
 ![Пост на тему по выбору ](image/4.png){ #fig:004 width=70% }
 
